@@ -1,4 +1,4 @@
-# SliGitToolsBundle [![Build Status](https://travis-ci.org/sergeil/SliGitToolsBundle.svg?branch=master)](https://travis-ci.org/sergeil/SliGitToolsBundle)
+# SliGitToolsBundle [![Build Status](https://travis-ci.org/sergeil/SliGitToolsBundle.svg?branch=develop)](https://travis-ci.org/sergeil/SliGitToolsBundle)
 
 Bundle provides tools that simplify working with Git when you develop features which require several vendor bundles
 to be updated.

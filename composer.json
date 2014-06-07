@@ -1,6 +1,8 @@
 {
     "name": "sergeil/git-tools-bundle",
     "type": "symfony-bundle",
+    "description": "Bundle ships a set of tools that simplify working with Git when you need to update several bundles.",
+    "keywords": ["git"],
     "license": "MIT",
     "authors": [
         {

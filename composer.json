@@ -1,5 +1,5 @@
 {
-    "name": "sergeil/vendor-git-tools-bundle",
+    "name": "sergeil/git-tools-bundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
@@ -18,7 +18,7 @@
         "phpunit/phpunit": "3.7.*"
     },
     "autoload": {
-        "psr-0": { "Sli\\VendorGitToolsBundle": "" }
+        "psr-0": { "Sli\\GitToolsBundle": "" }
     },
-    "target-dir": "Sli/VendorGitToolsBundle"
+    "target-dir": "Sli/GitToolsBundle"
 }

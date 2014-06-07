@@ -1,6 +1,6 @@
 <?php
 
-namespace Sli\VendorGitToolsBundle\Git\Status;
+namespace Sli\GitToolsBundle\Git\Status;
 
 /**
  * Analyses output of "git status" command.

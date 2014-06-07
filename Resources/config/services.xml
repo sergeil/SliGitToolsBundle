@@ -6,11 +6,11 @@
 
     <!--
     <parameters>
-        <parameter key="sli_vendor_git_tools.example.class">Sli\VendorGitToolsBundle\Example</parameter>
+        <parameter key="sli_git_tools.example.class">Sli\VendorGitToolsBundle\Example</parameter>
     </parameters>
 
     <services>
-        <service id="sli_vendor_git_tools.example" class="%sli_vendor_git_tools.example.class%">
+        <service id="sli_git_tools.example" class="%sli_git_tools.example.class%">
             <argument type="service" id="service_id" />
             <argument>plain_value</argument>
             <argument>%parameter_name%</argument>

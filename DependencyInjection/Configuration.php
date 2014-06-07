@@ -1,6 +1,6 @@
 <?php
 
-namespace Sli\VendorGitToolsBundle\DependencyInjection;
+namespace Sli\GitToolsBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;

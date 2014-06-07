@@ -1,9 +1,9 @@
 <?php
 
-namespace Sli\VendorGitToolsBundle\Command;
+namespace Sli\GitToolsBundle\Command;
 
-use Sli\VendorGitToolsBundle\Git\Status\ExecutionResult;
-use Sli\VendorGitToolsBundle\Git\Status\GitStatusCommand;
+use Sli\GitToolsBundle\Git\Status\ExecutionResult;
+use Sli\GitToolsBundle\Git\Status\GitStatusCommand;
 use Symfony\Bundle\FrameworkBundle\Command\ContainerAwareCommand;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;

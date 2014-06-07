@@ -1,8 +1,8 @@
 <?php
 
-namespace Sli\VendorGitToolsBundle\Tests\Unit\Git\Status;
+namespace Sli\GitToolsBundle\Tests\Unit\Git\Status;
 
-use Sli\VendorGitToolsBundle\Git\Status\ExecutionResult;
+use Sli\GitToolsBundle\Git\Status\ExecutionResult;
 
 /**
  * @author Sergei Lissovski <sergei.lissovski@gmail.com>

@@ -1,6 +1,6 @@
 <?php
 
-namespace Sli\VendorGitToolsBundle\DependencyInjection;
+namespace Sli\GitToolsBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;

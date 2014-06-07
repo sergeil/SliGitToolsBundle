@@ -1,6 +1,6 @@
 <?php
 
-namespace Sli\VendorGitToolsBundle\Git\Status;
+namespace Sli\GitToolsBundle\Git\Status;
 
 use Symfony\Component\Process\Process;
 

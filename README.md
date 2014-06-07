@@ -1,4 +1,4 @@
-# SliVendorGitToolsBundle [![Build Status](https://travis-ci.org/sergeil/SliVendorGitToolsBundle.svg?branch=master)](https://travis-ci.org/sergeil/SliVendorGitToolsBundle)
+# SliGitToolsBundle [![Build Status](https://travis-ci.org/sergeil/SliGitToolsBundle.svg?branch=master)](https://travis-ci.org/sergeil/SliGitToolsBundle)
 
 Bundle provides tools that simplify working with Git when you develop features which require several vendor bundles
 to be updated.
@@ -11,7 +11,7 @@ Add this dependency to your composer.json:
 
 Update your AppKernel class and add this:
 
-    new Sli\VendorGitToolsBundle\SliVendorGitToolsBundle(),
+    new Sli\VendorGitToolsBundle\SliGitToolsBundle(),
 
 ## Documentation
 

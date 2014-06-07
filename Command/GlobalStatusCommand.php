@@ -19,7 +19,7 @@ class GlobalStatusCommand extends ContainerAwareCommand
     protected function configure()
     {
         $this
-            ->setName('sli:vendor-git-tools:global-status')
+            ->setName('sli:git-tools:global-status')
             ->addArgument('bundle-name-filter')
             ->setDescription('Shows git status for all registered bundles.')
         ;

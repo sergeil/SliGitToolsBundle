@@ -11,7 +11,7 @@ Add this dependency to your composer.json:
 
 Update your AppKernel class and add this:
 
-    new Sli\VendorGitToolsBundle\SliGitToolsBundle(),
+    new Sli\GitToolsBundle\SliGitToolsBundle(),
 
 ## Documentation
 

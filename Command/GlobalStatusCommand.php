@@ -39,6 +39,10 @@ class GlobalStatusCommand extends ContainerAwareCommand
                 continue;
             }
 
+            if (!file_exists($bundle->getPath() . '/.git')) {
+                continue;
+            }
+
             $gitStatus = new GitStatusCommand($bundle->getPath());
             if (0 == $gitStatus->run()) {
                 $result = $gitStatus->runAndGetExecutionResult();
